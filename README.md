@@ -18,17 +18,17 @@ You need to use an already developed Python classifier to make sure the particip
 #### Test set results 
 We had an inclusive dataset of a rotated image of a dog image and the rest were different animals and an image that was not of  an animal Below we have a summary for the uploaded CNN Model Architecture.
 
-| Number of Images| 4|
-| Number of Dog Images|3|
-| Number of Not-a-Dog Images|1|
+|Number of Images||---||4|
+|Number of Dog Images||---||3|
+|Number of Not-a-Dog Images||---||1|
 
 
 
-| |pct_match|pct_correct_dogs|pct_correct_breed|pct_correct_notdogs|VGG|
+|CNN Model Architecture|pct_match|pct_correct_dogs|pct_correct_breed|pct_correct_notdogs|
 |---|---|---|---|---|---|
-|CNN Model Architecture|50.0%|0.0%|100.0%|66.7.0%|
-|AlexNet|50.0%|0.0%|100.0%|66.7.0%|
-|RestNet|50.0%|0.0%||100.0%|66.7.0%|
+|VGG|50.0%|0.0%|100.0%|66.7%|
+|AlexNet|50.0%|0.0%|100.0%|66.7%|
+|RestNet|50.0%|0.0%|100.0%|66.7%|
 
 
 
